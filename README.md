@@ -2,7 +2,7 @@
 **Neeldesai92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Neel's GitHub Banner](https://github.com/Neeldesai92/OrganizingRepos/blob/main/Banners%20(2).png)](https://github.com/Neeldesai92)
+[![Neel's GitHub Banner](https://github.com/Neeldesai92/ResourceRepos/blob/main/Banners%20(2).png)](https://github.com/Neeldesai92)
 
 ## Hi, I'm [Neel!](https://www.linkedin.com/in/singhpooja432/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
   
