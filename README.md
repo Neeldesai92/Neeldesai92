@@ -21,16 +21,11 @@ Link to my [resume](https://drive.google.com/file/d/1ugdarMhmAz64d4TBa9dyaTEhkdz
   
 ## Languages and Tools
 
-<a href="https://kotlinlang.org/" target="_blank"><img align="left" alt="Kotlin" width="26px" src="https://github.com/Neeldesai92/ResourceRepos
-/blob/main/kotlin.png" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="26px" src="https://github.com/Neeldesai92/ResourceRepos
-/blob/main/java.png" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="26px" src="https://github.com/Neeldesai92/ResourceRepos
-/blob/main/git.png"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="SQL" width="26px" src="https://github.com/Neeldesai92/ResourceRepos
-/blob/main/database.png"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Neeldesai92/ResourceRepos
-/blob/main/github.png" />
+<a href="https://kotlinlang.org/" target="_blank"><img align="left" alt="Kotlin" width="26px" src="https://github.com/Neeldesai92/ResourceRepos/blob/main/kotlin.png" /></a>
+<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="26px" src="https://github.com/Neeldesai92/ResourceRepos/blob/main/java.png" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="26px" src="https://github.com/Neeldesai92/ResourceRepos/blob/main/git.png"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="SQL" width="26px" src="https://github.com/Neeldesai92/ResourceRepos/blob/main/database.png"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Neeldesai92/ResourceRepos/blob/main/github.png" />
 <br />
 <br />
 
