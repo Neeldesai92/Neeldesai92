@@ -71,9 +71,7 @@ Link to my [resume](https://drive.google.com/file/d/1ugdarMhmAz64d4TBa9dyaTEhkdz
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
